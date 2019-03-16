@@ -23,5 +23,7 @@ if dzien < 10:
     print("{} dzień i {}:{}".format(dzien,godz,min))
 else:
     print("{} dni i {}:{}".format(dzien, godz, min))
-    
-    12123
+
+
+    123123
+
